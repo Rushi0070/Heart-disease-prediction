@@ -5,7 +5,8 @@ USED KAGGLE DATA SET FOR PREDICTING HEART -DISEASE
 
 
 BEST SCORE -RANDOMFORESTCASSIFIER
-# HEART-DISEASE
+# HEART-DISEASE![image](https://github.com/Rushi0070/Heart-disease-prediction/assets/93077515/e2350992-847b-494e-84ac-0e197dd1e925)
+
 
 Demonstrated python skill and using libraries such as scikit learn ,pandas,matplotlib
 
